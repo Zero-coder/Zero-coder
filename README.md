@@ -8,6 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zero-coder/Zero-coder/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+<div align="center"> <img src="https://profile-counter.glitch.me/Zero-coder/count.svg" /> </div>
 
 <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_
 -->
