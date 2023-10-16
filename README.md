@@ -1,4 +1,5 @@
 🌱🌲🌳🌴🌵🌾🌿☘️🌍🌎🌏🔥💧🌊🐪🐫🦙🦒🐻‍❄️🐨🐼🦥🦦
+Hello, brothers, we have the same mother, mother nature.
 <div align="center">
  <h1 align="center">Welcome</h1>
  <img src="https://media.giphy.com/media/5GJGCRq5zaS5oOzQvK/giphy.gif" width="300" alt="jokes GIF">
