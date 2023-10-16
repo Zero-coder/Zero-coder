@@ -3,7 +3,7 @@
  <h1 align="center">README Jokes</h1>
  <img src="https://media.giphy.com/media/5GJGCRq5zaS5oOzQvK/giphy.gif" width="300" alt="jokes GIF">
 
- <p align="center"><i>Random programming jokes on your README.</i></p>
+ <p align="center"><i>Have a nice day, friend.</i></p>
  <p align="center"><img alt="GitHub deployments" src="https://img.shields.io/github/deployments/ABSphreak/readme-jokes/Production?label=Production&style=flat-square"/>
  <img alt="GitHub deployments" src="https://img.shields.io/github/deployments/ABSphreak/readme-jokes/Preview?label=Testing&style=flat-square"/>
  <a href="https://github.com/ABSphreak/readme-jokes/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/ABSphreak/readme-jokes?label=Issues&style=flat-square"/></a></p>
