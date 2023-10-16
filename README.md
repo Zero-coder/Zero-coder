@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 🌘🌟🌑🌒🌓🌔⚛️(～￣▽￣)～
 <div align="center">
- <h1 align="center">README Jokes</h1>
+ <h1 align="center">Welcome</h1>
  <img src="https://media.giphy.com/media/5GJGCRq5zaS5oOzQvK/giphy.gif" width="300" alt="jokes GIF">
 
  <p align="center"><i>Have a nice day, friend.</i></p>
