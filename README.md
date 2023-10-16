@@ -1,3 +1,4 @@
+🌱🌲🌳🌴🌵🌾🌿☘️🌍🌎🌏🔥💧🌊🐪🐫🦙🦒🐻‍❄️🐨🐼🦥🦦
 <div align="center">
  <h1 align="center">Welcome</h1>
  <img src="https://media.giphy.com/media/5GJGCRq5zaS5oOzQvK/giphy.gif" width="300" alt="jokes GIF">
@@ -9,6 +10,7 @@
 </picture>
 </div>
 <div align="center"> <img src="https://profile-counter.glitch.me/Zero-coder/count.svg" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zero-coder&show_icons=true&theme=tokyonight" /> </div>
 
 <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_
 -->
