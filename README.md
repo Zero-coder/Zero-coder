@@ -23,7 +23,9 @@ Hello, brothers, we have the same mother, mother nature.
 ---
 
 ### 🔍 Find me on:  
-📖 **Google Scholar**: [My Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=ZRREqFIAAAAJ)
+📖 **Google Scholar**: [My Google Scholar Profile](https://scholar.google.com/citations?hl=zh-CN&user=ZRREqFIAAAAJ)  
+🌏 **Gitee**: [My Gitee Profile](https://gitee.com/jiang_maowei)  
+📝 **CSDN Blog**: [My CSDN Blog](https://blog.csdn.net/weixin_43332715?type=blog)  
 
 <!-- _generated with [Platane/snk](https://github.com/Platane/snk)_ -->
 <!--
