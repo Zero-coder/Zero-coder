@@ -13,12 +13,21 @@ Hello, brothers, we have the same mother, mother nature.
 </div>
 
 <div align="center">  
- Hello<img src="https://profile-counter.glitch.me/Zero-coder/count.svg" />  
+ <img src="https://profile-counter.glitch.me/Zero-coder/count.svg" />  
 </div>
 
 <div align="center">  
- <img src="https://github-readme-stats.vercel.app/api?username=Zero-coder&show_icons=true&theme=tokyonight" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Zero-coder&show_icons=true&theme=tokyonight" />
 </div>
+<div align="center">
+  <!-- Add the contributions graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zero-coder&count_private=true&show_icons=true&hide_title=true&hide=prs,issues&theme=tokyonight" />
+</div>
+<div align="center">
+  <!-- Add the top languages graph -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-coder&langs_count=10&theme=tokyonight" />
+</div>
+
 
 ---
 
