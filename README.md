@@ -30,12 +30,6 @@ Hello, brothers, we have the same mother, mother nature.
 
 ### Repositories I have contributed to:
 
-| Repository | Stars |
-| --- | --- |
-| [Second-Me](https://github.com/mindverse/Second-Me) | ![Second-Me stars](https://img.shields.io/github/stars/mindverse/Second-Me?style=social) |
-| [Autoformer](https://github.com/thuml/Autoformer) | ![Autoformer stars](https://img.shields.io/github/stars/thuml/Autoformer?style=social) |
-| [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) | ![Awesome-LLM-Robotics stars](https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social) |
-
 
 <div align="center">
   <h3>Repositories I have contributed to:</h3>
