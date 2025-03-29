@@ -56,10 +56,6 @@ Hello, brothers, we have the same mother, mother nature.
     </div>
   </div>
 </div>
-<hr>
-
-
-
 
 
 
