@@ -28,33 +28,35 @@ Hello, brothers, we have the same mother, mother nature.
 
 <div align="center">
   <h3>Repositories I have contributed to:</h3>
+  <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+    <!-- Repository 1 -->
+    <div style="text-align: center;">
+      <a href="https://github.com/mindverse/Second-Me" target="_blank">
+        <img src="https://img.shields.io/github/stars/mindverse/Second-Me?style=social" alt="Second-Me stars" width="150" height="30">
+        <p><strong>Second-Me</strong></p>
+      </a>
+    </div>
   
-  <!-- Repository 1 -->
-  <div>
-    <a href="https://github.com/mindverse/Second-Me" target="_blank">
-      <img src="https://img.shields.io/github/stars/mindverse/Second-Me?style=social" alt="Second-Me stars">
-      <p><strong>Second-Me</strong></p>
-    </a>
-  </div>
+    <!-- Repository 2 -->
+    <div style="text-align: center;">
+      <a href="https://github.com/thuml/Autoformer" target="_blank">
+        <img src="https://img.shields.io/github/stars/thuml/Autoformer?style=social" alt="Autoformer stars" width="150" height="30">
+        <p><strong>Autoformer</strong></p>
+      </a>
+    </div>
   
-  <!-- Repository 2 -->
-  <div>
-    <a href="https://github.com/thuml/Autoformer" target="_blank">
-      <img src="https://img.shields.io/github/stars/thuml/Autoformer?style=social" alt="Autoformer stars">
-      <p><strong>Autoformer</strong></p>
-    </a>
-  </div>
-  
-  <!-- Repository 3 -->
-  <div>
-    <a href="https://github.com/GT-RIPL/Awesome-LLM-Robotics" target="_blank">
-      <img src="https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social" alt="Awesome-LLM-Robotics stars">
-      <p><strong>Awesome-LLM-Robotics</strong></p>
-    </a>
+    <!-- Repository 3 -->
+    <div style="text-align: center;">
+      <a href="https://github.com/GT-RIPL/Awesome-LLM-Robotics" target="_blank">
+        <img src="https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social" alt="Awesome-LLM-Robotics stars" width="150" height="30">
+        <p><strong>Awesome-LLM-Robotics</strong></p>
+      </a>
+    </div>
   </div>
 </div>
 
 <hr>
+
 
 
 
