@@ -60,9 +60,7 @@ Hello, brothers, we have the same mother, mother nature.
 
 <hr>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-coder&langs_count=10&theme=tokyonight" />
-</div>
+
 
 
 ---
