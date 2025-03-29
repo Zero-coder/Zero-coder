@@ -26,6 +26,8 @@ Hello, brothers, we have the same mother, mother nature.
   <img src="https://github-readme-stats.vercel.app/api?username=Zero-coder&show_icons=true&theme=tokyonight" />
 </div>
 
+
+
 <div align="center">
   <h3>Repositories I have contributed to:</h3>
   <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
@@ -54,8 +56,8 @@ Hello, brothers, we have the same mother, mother nature.
     </div>
   </div>
 </div>
-
 <hr>
+
 
 
 
