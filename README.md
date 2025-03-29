@@ -16,9 +16,7 @@ Hello, brothers, we have the same mother, mother nature.
  <img src="https://profile-counter.glitch.me/Zero-coder/count.svg" />  
 </div>
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Zero-coder&show_icons=true&theme=tokyonight" />
-</div>
+
 <div align="center">
   <!-- Add the contributions graph -->
   <img src="https://github-readme-stats.vercel.app/api?username=Zero-coder&count_private=true&show_icons=true&hide_title=true&hide=prs,issues&theme=tokyonight" />
