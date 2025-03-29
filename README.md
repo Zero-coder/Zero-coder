@@ -13,7 +13,7 @@ Hello, brothers, we have the same mother, mother nature.
 </div>
 
 <div align="center">  
- <img src="https://profile-counter.glitch.me/Zero-coder/count.svg" />  
+ Hello<img src="https://profile-counter.glitch.me/Zero-coder/count.svg" />  
 </div>
 
 <div align="center">  
