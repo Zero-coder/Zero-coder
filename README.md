@@ -26,6 +26,21 @@ Hello, brothers, we have the same mother, mother nature.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-coder&langs_count=10&theme=tokyonight" />
 </div>
 
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Zero-coder&show_icons=true&theme=tokyonight" />
+</div>
+
+<h3>Repositories I have contributed to:</h3>
+<ul>
+  <li><a href="https://github.com/mindverse/Second-Me"><img src="https://img.shields.io/github/stars/mindverse/Second-Me?style=social" alt="Second-Me stars"></a></li>
+  <li><a href="https://github.com/thuml/Autoformer"><img src="https://img.shields.io/github/stars/thuml/Autoformer?style=social" alt="Autoformer stars"></a></li>
+  <li><a href="https://github.com/GT-RIPL/Awesome-LLM-Robotics"><img src="https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social" alt="Awesome-LLM-Robotics stars"></a></li>
+</ul>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-coder&langs_count=10&theme=tokyonight" />
+</div>
+
 
 ---
 
