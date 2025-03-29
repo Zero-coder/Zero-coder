@@ -37,6 +37,26 @@ Hello, brothers, we have the same mother, mother nature.
 | [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) | ![Awesome-LLM-Robotics stars](https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social) |
 
 
+<div align="center">
+  <h3>Repositories I have contributed to:</h3>
+  <table>
+    <tr>
+      <td><a href="https://github.com/mindverse/Second-Me" target="_blank">Second-Me</a></td>
+      <td><img src="https://img.shields.io/github/stars/mindverse/Second-Me?style=social" alt="Second-Me stars"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thuml/Autoformer" target="_blank">Autoformer</a></td>
+      <td><img src="https://img.shields.io/github/stars/thuml/Autoformer?style=social" alt="Autoformer stars"></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GT-RIPL/Awesome-LLM-Robotics" target="_blank">Awesome-LLM-Robotics</a></td>
+      <td><img src="https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social" alt="Awesome-LLM-Robotics stars"></td>
+    </tr>
+  </table>
+</div>
+
+
+
 ---
 
 ### 🔍 Find me on:  
