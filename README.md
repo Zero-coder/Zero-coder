@@ -30,6 +30,39 @@ Hello, brothers, we have the same mother, mother nature.
   <img src="https://github-readme-stats.vercel.app/api?username=Zero-coder&show_icons=true&theme=tokyonight" />
 </div>
 
+<div align="center">
+  <h3>Repositories I have contributed to:</h3>
+  
+  <!-- Repository 1 -->
+  <div>
+    <a href="https://github.com/mindverse/Second-Me" target="_blank">
+      <img src="https://img.shields.io/github/stars/mindverse/Second-Me?style=social" alt="Second-Me stars">
+      <p><strong>Second-Me</strong></p>
+    </a>
+  </div>
+  
+  <!-- Repository 2 -->
+  <div>
+    <a href="https://github.com/thuml/Autoformer" target="_blank">
+      <img src="https://img.shields.io/github/stars/thuml/Autoformer?style=social" alt="Autoformer stars">
+      <p><strong>Autoformer</strong></p>
+    </a>
+  </div>
+  
+  <!-- Repository 3 -->
+  <div>
+    <a href="https://github.com/GT-RIPL/Awesome-LLM-Robotics" target="_blank">
+      <img src="https://img.shields.io/github/stars/GT-RIPL/Awesome-LLM-Robotics?style=social" alt="Awesome-LLM-Robotics stars">
+      <p><strong>Awesome-LLM-Robotics</strong></p>
+    </a>
+  </div>
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zero-coder&langs_count=10&theme=tokyonight" />
+</div>
 
 
 ---
